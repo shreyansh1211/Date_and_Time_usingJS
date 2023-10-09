@@ -3,6 +3,7 @@ Display Time and Date using Java Script.
 
 # Code
 
+<br>
 <script>
         let a;
         let date;
